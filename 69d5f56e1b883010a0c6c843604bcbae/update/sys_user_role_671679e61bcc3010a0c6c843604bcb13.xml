@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_613884_wish_list.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_613884_wish_list.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-14 02:32:48</sys_created_on>
+        <sys_id>671679e61bcc3010a0c6c843604bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_613884_wish_list.user</sys_name>
+        <sys_package display_value="Wish List" source="x_613884_wish_list">69d5f56e1b883010a0c6c843604bcbae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">69d5f56e1b883010a0c6c843604bcbae</sys_scope>
+        <sys_update_name>sys_user_role_671679e61bcc3010a0c6c843604bcb13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-14 02:32:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
